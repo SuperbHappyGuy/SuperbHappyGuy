@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Spotify](https://superbhappyguy.vercel.app/api/spotify)](https://open.spotify.com/user/12159198528)
+[![Spotify](https://novatorem-6r3h.vercel.app/api/spotify)](https://open.spotify.com/user/12159198528)
 <!--
 **SuperbHappyGuy/SuperbHappyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
