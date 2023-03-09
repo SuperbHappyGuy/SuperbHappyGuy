@@ -1,7 +1,12 @@
-### Hi there 👋
+![github banner](https://user-images.githubusercontent.com/29354749/223928041-ef90fef2-e141-4601-82b7-44cb93e53323.png)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperbHappyGuy&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
-[![Spotify](https://novatorem-6r3h.vercel.app/api/spotify)](https://open.spotify.com/user/12159198528)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperbHappyGuy&theme=tokyoday" alt="mystreak"/>
+
+[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19090344)](https://stackoverflow.com/users/3840208/dhanushka)
+
+[![Spotify](https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12159198528)
 <!--
 **SuperbHappyGuy/SuperbHappyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
