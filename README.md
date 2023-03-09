@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperbHappyGuy&theme=tokyoday" alt="mystreak"/>
 
-[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19090344)](https://stackoverflow.com/users/3840208/dhanushka)
+[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19090344)](https://stackoverflow.com/users/19090344/brandon-noel)
 
 [![Spotify](https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12159198528)
 <!--
