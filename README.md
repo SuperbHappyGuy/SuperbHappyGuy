@@ -1,6 +1,7 @@
 ![github banner](https://user-images.githubusercontent.com/29354749/223928041-ef90fef2-e141-4601-82b7-44cb93e53323.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-noel-2a011175/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19090344) 
+![linkedin](https://user-images.githubusercontent.com/29354749/224262703-88a0507b-7f01-401b-988e-b060d18d98a7.svg)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperbHappyGuy&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"  />
@@ -17,13 +18,6 @@
 
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperbHappyGuy&theme=tokyoday" alt="mystreak"/>
-
-[![Spotify](https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12159198528)
-
-
-  
-
-  
 
 <div align="left">
    🎮 Let's play Pokémon together~
@@ -48,7 +42,7 @@
 <br>
 <br>
 <br>
-[<img align="right" src="https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff" />](https://open.spotify.com/user/12159198528)
+<img align="right" src="https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff">
 
 <details><summary>Statistics of this game so far</summary>
   <img src="https://playground.aoaoao.me/Api/GBStatistic" />
