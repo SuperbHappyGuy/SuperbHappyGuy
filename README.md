@@ -42,6 +42,8 @@
 <br>
 <br>
 <br>
+<br>
+
 <img align="right" src="https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff">
 
 <details><summary>Statistics of this game so far</summary>
