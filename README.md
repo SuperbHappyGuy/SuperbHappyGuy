@@ -45,7 +45,7 @@
 <img align="right" src="https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff">
 
 <details><summary>Statistics of this game so far</summary>
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
+  <img align="right" src="https://playground.aoaoao.me/Api/GBStatistic" />
 </details>
 <!--
 **SuperbHappyGuy/SuperbHappyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
