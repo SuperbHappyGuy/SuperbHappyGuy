@@ -12,9 +12,9 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperbHappyGuy&theme=tokyoday" alt="mystreak"/>
    
    <p align="left">🔭 I'm currently a student learning full stack development with Get Coding! <br><br></p>
-   <p align="left">🎮 My passion for sofware development originates with my love for <br> video games which has truly inspired me to learn how software works. <br><br></p>
+   <p align="left">🎮 My passion for sofware development originates with my love for video games which has truly inspired me to learn how software works. <br><br></p>
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperbHappyGuy&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"  width="480px"/>
-   <p align="left">📁 My first project was developed with HTML, CSS, and JavaScript. <br> I decided to make a hub to showcase some games I developed <br> and future games I'll be working on. <br> You can check it out at https://superbgames.netlify.app/ <br><br></p>
+   <p align="left">📁 My first project was developed with HTML, CSS, and JavaScript. I decided to make a hub to showcase some games I developed and future games I'll be working on. <br> You can check it out at https://superbgames.netlify.app/ <br><br></p>
    <p align="left">⚡ Fun fact I'm also very passionate about music <br> and enjoy making music! <br><br></p>
    
    <br>
