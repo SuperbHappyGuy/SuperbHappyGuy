@@ -9,7 +9,7 @@
 
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperbHappyGuy&theme=tokyoday" alt="mystreak"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperbHappyGuy&theme=tokyoday" alt="mystreak"/> <br>
    
    <p align="left">🔭 I'm currently a student learning full stack development with Get Coding! <br><br></p>
    <p align="left">🎮 My passion for sofware development originates with my love for video games which has truly inspired me to learn how software works. <br<br></p>
