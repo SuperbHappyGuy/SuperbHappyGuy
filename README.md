@@ -13,7 +13,8 @@
    
    <p align="left">🔭 I'm currently a student learning full stack development with Get Coding! <br><br></p>
    <p align="left">🎮 My passion for sofware development originates with my love for video games which has truly inspired me to learn how software works. <br><br></p>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperbHappyGuy&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"  width="480px"/> <br>
+   <br>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperbHappyGuy&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"  width="480px"/>
    <p align="left">📁 My first project was developed with HTML, CSS, and JavaScript. I decided to make a hub to showcase some games I developed and future games I'll be working on. <br> You can check it out at https://superbgames.netlify.app/ <br><br></p>
    <p align="left">⚡ Fun fact I'm also very passionate about music <br> and enjoy making music! <br><br></p>
    
