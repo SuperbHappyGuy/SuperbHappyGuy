@@ -40,7 +40,6 @@
 <br>
 <br>
 <br>
-<br>
    
 <div align="right"> What I've Been Listening to: 🎧 </div>
 <img align="right" src="https://novatorem-6r3h.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff">
