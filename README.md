@@ -46,6 +46,8 @@
 
    <p align="left"> 📧 Contact me here brandon_noel@live.ca</p>
    
+   ![](https://komarev.com/ghpvc/?username=SuperbHappyGuy&color=green)
+   
 <!--
 **SuperbHappyGuy/SuperbHappyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
